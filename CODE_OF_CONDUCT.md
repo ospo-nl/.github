@@ -65,8 +65,8 @@ vertegenwoordiger op een online of offline evenement.
 
 Gevallen van beledigend, intimiderend of anderszins onaanvaardbaar gedrag kunnen worden
 gerapporteerd aan de gemeenschapsleiders die verantwoordelijk zijn voor handhaving via 
-een ['bug' issue](https://github.com/ospo-nl/kennisbank/labels/bug). Later volgen nog
-andere mogelijkheden.
+een [issue](https://github.com/ospo-nl/kennisbank/issues/new) met label `Bug`.
+Later volgen nog andere mogelijkheden.
 Alle klachten worden snel en eerlijk beoordeeld en onderzocht.
 
 Alle community leaders zijn verplicht om de privacy en veiligheid van de
