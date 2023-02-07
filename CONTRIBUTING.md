@@ -1,18 +1,26 @@
 # Inleiding
 
 Om te beginnen, hartelijk dank voor je interesse om bij te dragen aan dit OSPO-NL initiatief!
-Door te delen in kennis en ervaring en samen te werken komen we tot 'best practices' en hulp om Open Source projecten in Nederland goed te organiseren.
+Door te delen in kennis en ervaring en samen te werken komen we tot 'best practices' en hulp 
+om Open Source projecten in Nederland goed te organiseren.
 
-> **For our English speakers**: First off, thank you for your interest to contribute to this OSPO-NL initiative!
-> By sharing in knowledge and experience and collaboration we'll be able to produce Best Practices and help to set up Open Source projects in the Netherlands.
-> Because of the gap between needs and knowledge in the Netherlands the content of this initiative will be mainly in Dutch.
+> **For our non-Dutch native readers**: First off, thank you for your interest to contribute to this OSPO-NL initiative!
+> By sharing knowledge and experiences and collaborate we'll be able to produce Best Practices and help
+> to set up Open Source projects in The Netherlands.
+> Because the gap between needs and knowledge in The Netherlands the content of this initiative will be mainly in Dutch.
 > 
-> We are very sorry if this creates a feeling of not being inclusive ... which is of course against our Code of Conduct; We would like to be as inclusive as possible!
-> BUT to choose to write mainly in Dutch we will be more inclusive to the less equiped and Dutch native readers of our content and those are the primary focus of these practices.
-> Nonetheless, much content is probably not managed here or produced inside these repositories but will be linked to or just translated summaries of content elsewhere.
+> We are very sorry if this creates a feeling of not being inclusive ... which is of course against our 
+> [Code of Conduct](CODE_OF_CONDUCT.md); We would like to be as inclusive as possible!
+> 
+> BUT to choose to write mainly in Dutch we will be more inclusive to the less equiped and Dutch native readers
+> of our content and those are the primary focus of these practices.
+> Nonetheless, much content is probably not managed here or produced inside these repositories but will
+> be linked to or just translated summaries of content elsewhere.
 
-Door deze richtlijnen te volgen, communiceer je dat je de tijd respecteert van de ontwikkelaars die dit open source-project beheren en ontwikkelen.
-In ruil daarvoor moeten ze dat respect beantwoorden bij het aanpakken van uw melding, het beoordelen van wijzigingen en het helpen afronden van uw pull requests.
+Door deze richtlijnen te volgen, communiceer je dat je de tijd respecteert van de ontwikkelaars
+die dit open source-project beheren en ontwikkelen. In ruil daarvoor moeten ze dat respect
+beantwoorden bij het aanpakken van uw melding, het beoordelen van wijzigingen en het
+helpen afronden van uw pull requests.
 
 Houd een open geest!
 Het verbeteren van documentatie, melden van fouten, of bijdragen aandragen zijn voorbeelden van nuttige bijdragen.
@@ -22,21 +30,61 @@ Helemaal als daar samenvattingen (of volledige) vertalingen van in het Nederland
 Mochten bijdragen niet voldoen aan deze richtlijnen dan houden wij ons de vrijheid om commentaren te negeren en bijdragen te sluiten.
 Daarbij zullen wij verwijzen naar deze richtlijnen / Contributing Guide.
 
+> En als je het project leuk vindt, maar gewoon geen tijd hebt om bij te dragen, is dat prima. Er zijn andere eenvoudige manieren om het project te steunen en je waardering te tonen, waar we ook erg blij mee zijn:
+> - Geef het project een ster
+> - Tweet erover
+> - Verwijs naar dit project in de readme van uw project
+> - Noem het project op lokale meetups en vertel het aan je vrienden/collega's
+
 # Basis regels
 
-# Ground Rules
-### Set expectations for behavior (yours, and theirs).
-This includes not just how to communicate with others (being respectful, considerate, etc) but also technical responsibilities (importance of testing, project dependencies, etc). Mention and link to your code of conduct, if you have one.
+## Gedragscode
 
-> Responsibilities
-> * Ensure cross-platform compatibility for every change that's accepted. Windows, Mac, Debian & Ubuntu Linux.
-> * Ensure that code that goes into core meets all requirements in this checklist: https://gist.github.com/audreyr/4feef90445b9680475f2
-> * Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
-> * Don't add any classes to the codebase unless absolutely needed. Err on the side of using functions.
-> * Keep feature versions as small as possible, preferably one new feature per version.
-> * Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. See the [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
+Dit project en iedereen die eraan deelneemt, wordt bestuurd door de
+[OSPO-NL Gedragscode](CODE_OF_CONDUCT.md).
+Door deel te nemen, wordt van u verwacht dat u zich aan deze code houdt.
+Gelieve onaanvaardbaar gedrag te melden volgens de [Gedragscode#Handhaving](CODE_OF_CONDUCT.md#handhaving).
 
-[source: [cookiecutter](https://github.com/audreyr/cookiecutter/blob/master/CONTRIBUTING.rst)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#community-code-of-conduct) [2] [geocoder](https://github.com/alexreisner/geocoder#contributing)
+## Verwachtingen
+
+Vrijwel alle content is beschreven in Markdown. Daarbij maken wij gebruik van 
+MkDocs Material om alle documentatie te publiceren. Bij gebruik van plaatjes is het fijn
+als de bron daarvan ook onderdeel is van dit project ... en bij voorkeur in een open
+formaat. Dat betekent dat deze aangepast en bijgewerkt kunnen worden zonder kosten te
+maken voor tools. Nogmaals: bij voorkeur.
+
+- Zorg dat bijdragen cross-platform uitwisselbaar zijn. Windows, Mac, Linux.
+- Zorg dat code en documentatie compleet is.
+- Maak issues aan voor elke grote wijziging en verbetering die je graag wilt maken.
+  Bespreek de dingen transparant en vraag community feedback.
+- Probeer bijdragen compact en klein te houden; dat draagt bij aan het behoud van
+  overzicht en wijzigingen.
+- Wees open naar nieuwe mensen en moedig nieuwe bijdragen aan van alle achtergronden.
+- Issues behoren van een passend label te zijn voorzien:
+  - `Bug` betekent een urgent probleem in de community of in de documentatie
+  - `Enhancement` betekent een bijdrage voor uitbreiding
+  - `Question` betekent een vraag
+
+# Ik heb een vraag
+
+> Als je een vraag wilt stellen, gaan we ervan uit dat je de beschikbare [Documentatie](https://github.com/ospo-nl) hebt gelezen.
+
+Voordat je een vraag stelt, kun je het beste zoeken naar bestaande 
+[Issues](https://github.com/ospo-nl/kennisbank/issues) die je kunnen helpen.
+Als u een geschikt probleem hebt gevonden en nog steeds verduidelijking nodig heeft,
+kunt u uw vraag in dit nummer schrijven. Het is ook raadzaam om eerst op 
+internet naar antwoorden te zoeken.
+
+Als je dan toch de behoefte voelt om een vraag te stellen en verduidelijking nodig hebt, raden we het volgende aan:
+
+- Open een [Issue](https://github.com/ospo-nl/kennisbank/issues/new).
+- Geef het issue een passend label (zie [verwachtingen](#verwachtingen]).
+- Geef zoveel mogelijk context over waar je tegenaan loopt.
+- Indien van toepassing: Lever technische afhankelijkheden die relevant lijken.
+
+We zullen het probleem dan zo snel mogelijk in behandeling nemen.
+
+----
 
 # Your First Contribution
 Help people who are new to your project understand where they can be most helpful. This is also a good time to let people know if you follow a label convention for flagging beginner issues.
