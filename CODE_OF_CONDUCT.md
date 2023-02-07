@@ -53,7 +53,7 @@ niet afgestemd op deze Gedragscode, of om
 tijdelijk of permanent bijdragen te weigeren van gedrag dat zij menen dat
 ongepast, bedreigend, beledigend of schadelijk is.
 
-## Domein
+## Scope
 
 Deze Gedragscode is van toepassing binnen alle gemeenschapsruimten, en ook wanneer
 een individu officieel de gemeenschap vertegenwoordigt in een openbare ruimte.
