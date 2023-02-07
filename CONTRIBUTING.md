@@ -4,7 +4,7 @@ Om te beginnen, hartelijk dank voor je interesse om bij te dragen aan dit OSPO-N
 Door te delen in kennis en ervaring en samen te werken komen we tot 'best practices' en hulp 
 om Open Source projecten in Nederland goed te organiseren.
 
-> **For our non-Dutch native readers**: First off, thank you for your interest to contribute to this OSPO-NL initiative!
+> **For non-Dutch native readers**: First off, thank you for your interest to contribute to this OSPO-NL initiative!
 > By sharing knowledge and experiences and collaborate we'll be able to produce Best Practices and help
 > to set up Open Source projects in The Netherlands.
 > Because the gap between needs and knowledge in The Netherlands the content of this initiative will be mainly in Dutch.
