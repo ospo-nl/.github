@@ -1,6 +1,6 @@
 # Inleiding
 
-> _Voor het maken van een eigen CONTRIBUTING kijk onderaan bij [Zelf maken](#zelfmaken)
+> _Voor het maken van een eigen CONTRIBUTING kijk onderaan bij [Zelf maken](#zelf-maken)_
 
 Om te beginnen, hartelijk dank voor je interesse om bij te dragen aan dit OSPO-NL initiatief!
 Door te delen in kennis en ervaring en samen te werken komen we tot 'best practices' en hulp 
