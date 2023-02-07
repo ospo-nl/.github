@@ -1,5 +1,7 @@
 # Inleiding
 
+> _Voor het maken van een eigen CONTRIBUTING kijk onderaan bij [Zelf maken](#zelfmaken)
+
 Om te beginnen, hartelijk dank voor je interesse om bij te dragen aan dit OSPO-NL initiatief!
 Door te delen in kennis en ervaring en samen te werken komen we tot 'best practices' en hulp 
 om Open Source projecten in Nederland goed te organiseren.
@@ -222,3 +224,12 @@ These sections are not necessary, but can help streamline the contributions you 
 ### Explain if you use any labeling conventions for issues.
 
 **Need inspiration?** [1] [StandardIssueLabels](https://github.com/wagenet/StandardIssueLabels#standardissuelabels) [2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#issue-and-pull-request-labels)
+
+-----
+
+# Zelf maken
+
+Een eigen CONTRIBUTING maken is niet echt moeilijk ... en toch ook weer wel.
+Inspiratie voor deze variant komt van een
+[template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) en
+**contributing-gen**. [Maak er een zelf](https://github.com/bttger/contributing-gen) (incl. CODE OF CONDUCT) !
