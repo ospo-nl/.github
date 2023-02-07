@@ -72,14 +72,14 @@ maken voor tools. Nogmaals: bij voorkeur.
 > Als je een vraag wilt stellen, gaan we ervan uit dat je de beschikbare [Documentatie](https://github.com/ospo-nl) hebt gelezen.
 
 Voordat je een vraag stelt, kun je het beste zoeken naar bestaande 
-[Issues](https://github.com/ospo-nl/kennisbank/issues) die je kunnen helpen.
+[issues](https://github.com/ospo-nl/kennisbank/issues) die je kunnen helpen.
 Als u een geschikt probleem hebt gevonden en nog steeds verduidelijking nodig heeft,
 kunt u uw vraag in dit nummer schrijven. Het is ook raadzaam om eerst op 
 internet naar antwoorden te zoeken.
 
 Als je dan toch de behoefte voelt om een vraag te stellen en verduidelijking nodig hebt, raden we het volgende aan:
 
-- Open een [Issue](https://github.com/ospo-nl/kennisbank/issues/new).
+- Open een [issue](https://github.com/ospo-nl/kennisbank/issues/new).
 - Geef het issue een passend label (zie [verwachtingen](#verwachtingen]).
 - Geef zoveel mogelijk context over waar je tegenaan loopt.
 - Indien van toepassing: Lever technische afhankelijkheden die relevant lijken.
