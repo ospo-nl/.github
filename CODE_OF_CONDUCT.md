@@ -9,7 +9,7 @@ ongeacht leeftijd, lichaamsgrootte, handicap, etniciteit, geslachtskenmerken, ge
 ervaringsniveau, opleiding, sociaal-economische status, nationaliteit, persoonlijk
 uiterlijk, ras, religie of seksuele identiteit en geaardheid.
 
-> **For the non-Dutch native readers**:
+> **For non-Dutch native readers**:
 > In the interest of fostering an open and welcoming environment, we as
 > contributors and maintainers pledge to make participation in our project and
 > our community a harassment-free experience for everyone, regardless of age, body
