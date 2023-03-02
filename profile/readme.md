@@ -8,7 +8,7 @@ OSPO-NL bestaat uit community die zich inzetten kennis over Open Source en Open 
 
 De OSPO-NL kennisbank kan benadert worden via **[deze link](https://ospo-nl.github.io/kennisbank/)**. 
 
-![image](https://user-images.githubusercontent.com/3628277/222465019-17aa091a-3a86-49fb-8fcd-71e8104e5601.png)
+![image](https://github.com/ospo-nl/kennisbank/blob/feature/update-readme.md/docs/assets/images/Screenshot%20kennisbank%20OSPO-nl.png)
 
 ## Roadmap
 
