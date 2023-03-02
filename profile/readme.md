@@ -4,7 +4,11 @@ OSPO-NL is een project dat zich richt op Nederlandse organisaties die zich inzet
 
 OSPO-NL bestaat uit community die zich inzetten kennis over Open Source en Open Source Program Offices (OSPO) beschikbaar te maken en te delen.  
 
-Voor meer info check onze **[kennisbank](https://ospo-nl.github.io/kennisbank/)**
+## OSPO-NL Kennisbank
+
+De OSPO-NL kennisbank kan benadert worden via **[deze link](https://ospo-nl.github.io/kennisbank/)**. 
+
+![image](https://user-images.githubusercontent.com/3628277/222465019-17aa091a-3a86-49fb-8fcd-71e8104e5601.png)
 
 ## Roadmap
 
