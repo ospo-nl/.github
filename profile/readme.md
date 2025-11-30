@@ -5,7 +5,7 @@ Het is een community van mensen die deel zijn van of bijdragen aan OSPOs of open
 
 ## OSPO-NL Kennisbank
 
-De OSPO-NL kennisbank kan benadert worden via **[deze link](https://ospo-nl.github.io/kennisbank/)**. 
+De OSPO-NL kennisbank kan benaderd worden via **[deze link](https://ospo-nl.github.io/kennisbank/)**. 
 
 [<img src="https://ospo-nl.github.io/kennisbank/assets/images/screenshot-kennisbank-OSPO-NL.png" alt="Kennisbank Screenshot" />](https://ospo-nl.github.io/kennisbank/)
 
