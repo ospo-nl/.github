@@ -1,5 +1,7 @@
 # Welkom op de OSPO-NL
 
+❗Deze OSPO-NL github omgeving wordt op dit moment niet actief onderhouden. OSPO-NL is nog steeds wel actief als netwerk van open source ambassadeurs en OSPO's binnen (semi)publieke organisaties. Voor meer informatie, zie: https://www.opensourcewerken.nl❗
+
 OSPO-NL is een project dat zich richt op Nederlandse organisaties die zich inzetten voor Open Source en Open Source Program Offices (OSPOs).
 Het is een community van mensen die deel zijn van of bijdragen aan OSPOs of open source in het algemeen.
 
